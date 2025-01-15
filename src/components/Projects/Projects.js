@@ -25,7 +25,7 @@ function Projects() {
               title="DevSync"
               description="A real-time collaborative code editor where  multiple users can view live changes, save their code for future use, and run HTML, CSS, and JavaScript. Users receive notifications about connected collaborators. Built with the MERN stack and Socket.io."
               ghLink="https://github.com/ranjanmahto/DevSync"
-              demoLink="https://devsync-frontend-rldx.onrender.com"
+              demoLink="https://devsync-frontend-5b3e.onrender.com"
             />
           </Col>
 
